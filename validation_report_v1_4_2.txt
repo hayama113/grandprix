@@ -1,0 +1,10 @@
+Grand Prix Quiz v1.4.2 validation report
+=======================================
+questions.json: 1000
+question-data.js: 1000
+errors: 0
+
+Fixed:
+- Home label changed to 1,000問収録 / 10,000問対応設計
+- Cache busting updated to ?v=1.4.2
+- Service worker cache updated to grand-prix-quiz-v1-4-2
