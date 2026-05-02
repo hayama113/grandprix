@@ -1,0 +1,19 @@
+Grand Prix Quiz v1.7.1 validation report
+========================================
+Created: 2026-05-02T10:03:43
+Total questions in questions.json: 10727
+Total questions in question-data.js: 10727
+
+Course counts:
+- F1・クルマ総合: 10000
+- F1レース別出来事・マニア: 227
+- 生活の知恵・雑学トリビア: 500
+
+Fix:
+- Fixed app.js syntax error caused by escaped literal newline characters in course-button event listener block.
+- Updated cache version to v1.7.1.
+- Updated storage key to grand_prix_quiz_v1_7_1.
+
+Node syntax check: OK
+Missing required HTML IDs: 0
+Data validation errors: 0
