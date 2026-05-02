@@ -1,0 +1,41 @@
+Grand Prix Quiz v1.7 validation report
+======================================
+Created: 2026-05-02T09:47:58
+Total questions: 10727
+Validation errors: 0
+
+Course counts:
+- F1・クルマ総合: 10000
+- F1レース別出来事・マニア: 227
+- 生活の知恵・雑学トリビア: 500
+
+New v1.7 additions:
+- F1 race-event / mechanical mania questions: 227
+- Life trivia questions included: 500
+
+Race-event category counts:
+- F1レース別出来事: 39
+- F1レース別リザルト: 3
+- F1雨の名レース: 24
+- F1安全史・重大事故: 6
+- F1タイトル決定戦: 27
+- F1波乱のレース: 18
+- F1チームオーダー・無線: 9
+- F1日本人ドライバー: 3
+- F1ペナルティ・失格・騒動: 12
+- F1技術規定・メカニカル: 11
+- F1最新シーズン: 3
+- F1空力・サスペンション: 40
+- F1ブレーキ・冷却: 12
+- F1パワーユニット・ERS: 12
+- F1タイヤ・戦略: 8
+
+Implemented app changes:
+- Main screen course selection
+- Course-based category/era filtering
+- Course question count display
+- Integrated life trivia as separate course
+- Added source metadata to new F1 race-event questions
+
+Source note:
+This v1.7 file adds a sourced starter set of race-event and mechanical-depth questions. It does not yet claim full article-by-article coverage of every single GP from 1990 to present. Use this as the app structure and first curated dataset; a full exhaustive race-by-race editorial expansion should be done in additional batches.
